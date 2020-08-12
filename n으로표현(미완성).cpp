@@ -1,4 +1,5 @@
 // https://programmers.co.kr/learn/courses/30/lessons/42895?language=cpp
+// set에 관한 설명글 : https://blockdmask.tistory.com/79
 
 #include <string>
 #include <vector>
